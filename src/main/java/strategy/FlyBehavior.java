@@ -1,4 +1,4 @@
-package begin;
+package strategy;
 
 /**
  * @author Skryl D.V. on 12.12.2020
